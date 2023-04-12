@@ -16,10 +16,10 @@
 
 My name's Laura and I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
 
-- 💻  Contributing to frontend and backend for building web applications.
-- 🎓 Bachelor's Degree in Business Informatics Systems.
-- 💁‍♀️  5+ years of experience working in fast-paced and collaborative environments.
-- 🌱  Always learning.
+- 💻  Contributing to frontend and backend for building web applications
+- 🎓 Bachelor's Degree in Business Informatics Systems
+- 💁‍♀️  5+ years of experience working in fast-paced and collaborative environments
+- 🌱  Always learning
 - 📫  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-laura_roganovic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-roganovic)
 
 ---
