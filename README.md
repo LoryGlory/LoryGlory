@@ -14,7 +14,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am Laura and a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+My name's Laura and I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
 
 - 💻  Contributing to frontend and backend for building web applications.
 - 🎓 Bachelor's Degree in Business Informatics Systems.
