@@ -22,7 +22,11 @@ My name's Laura and I'm a Frontend Developer <img src="https://media.giphy.com/m
 - 🌱  Always learning
 - 📫  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-laura_roganovic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-roganovic)
 
-- 🌐 (Co-) Developed websites: www.copal.lu | www.brunata.lu | www.etrash.lu | www.zeit.sauerweins.de | https://helpinghandsafrica.de | www.bueroernst-partner.de | https://hotel-moseltal.de/ 
+---
+
+### 🌐 &nbsp;(Co-) Developed websites: 
+
+www.copal.lu | www.brunata.lu | www.etrash.lu | www.zeit.sauerweins.de | https://helpinghandsafrica.de | www.bueroernst-partner.de | https://hotel-moseltal.de/ 
  
 ---
 
