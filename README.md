@@ -24,7 +24,7 @@ My name's Laura and I'm a Frontend Developer <img src="https://media.giphy.com/m
 
 ---
 
-### 🌐 &nbsp;(Co-) Developed websites: 
+### 🌐 &nbsp; Selection of (co-) developed websites: 
 
 www.copal.lu | www.brunata.lu | www.etrash.lu | www.zeit.sauerweins.de | https://helpinghandsafrica.de | www.bueroernst-partner.de | https://hotel-moseltal.de/ 
  
