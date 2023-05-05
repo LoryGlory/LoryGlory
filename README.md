@@ -8,11 +8,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/laura-roganovic"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p> 
-
-![](https://hit.yhype.me/github/profile?user_id=87700499)
-
-![](https://komarev.com/ghpvc/?username=LoryGlory)
+</p>  
 
 <!--- <p align="center"><img src="https://komarev.com/ghpvc/?username=LoryGlory&style=flat-square&color=blue" alt=""></p> --->
 
