@@ -70,4 +70,4 @@ www.copal.lu | www.brunata.lu | www.etrash.lu | www.zeit.sauerweins.de | https:/
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoryGlory&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://hit.yhype.me/github/profile?user_id=87700499)
+![](https://hit.yhype.me/github/profile?user_id=87700499)
