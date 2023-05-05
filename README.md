@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/laura-roganovic"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p> 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=LoryGlory&style=flat-square&color=blue" alt=""></p>)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=LoryGlory&style=flat-square&color=blue" alt=""></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -70,4 +70,4 @@ www.copal.lu | www.brunata.lu | www.etrash.lu | www.zeit.sauerweins.de | https:/
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoryGlory&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://hit.yhype.me/github/profile?user_id=87700499)
+[![](https://hit.yhype.me/github/profile?user_id=87700499)
