@@ -18,16 +18,10 @@ My name's Laura and I'm a Frontend Developer <img src="https://media.giphy.com/m
 
 - 💻  Contributing to frontend and backend for building web applications
 - 🎓 Bachelor's Degree in Business Informatics Systems
-- 💁‍♀️  5+ years of experience working in fast-paced and collaborative environments
+- 💁‍♀️  8+ years of experience working in fast-paced and collaborative environments
 - 🌱  Always learning
 - 📫  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-laura_roganovic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-roganovic)
 
----
-
-### 🌐 &nbsp; Selection of (co-) developed websites: 
-
-www.copal.lu | www.brunata.lu | www.etrash.lu | www.zeit.sauerweins.de | https://helpinghandsafrica.de | www.bueroernst-partner.de | https://hotel-moseltal.de/ 
- 
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -55,19 +49,4 @@ www.copal.lu | www.brunata.lu | www.etrash.lu | www.zeit.sauerweins.de | https:/
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
-
----
-
-### 🔜 &nbsp; Currently learning:
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="ThreeJS Logo" width="50" height="50"/>  
-
----
-
-### 🔥 &nbsp; My Stats : 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LoryGlory&theme=vision-friendly-dark)](https://git.io/streak-stats)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoryGlory&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://hit.yhype.me/github/profile?user_id=87700499)
+</p> 
