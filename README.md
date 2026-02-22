@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif" width="180"/>
 </div>
 
-<h1 align="center">hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
+<h1 align="center">
+  hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laura-roganovic">
@@ -12,19 +14,36 @@
 
 ---
 
-### :woman_technologist: &nbsp;About Me
+## 👩‍💻 About Me
 
-My name's Laura and I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> from Germany.
+Hi — I'm Laura, a software engineer building **AI-native applications and platforms**.
 
-- 💻 &nbsp;Full-stack web development — from pixel-perfect UIs to production-ready backend services
-- 🤖 &nbsp;Recently exploring AI orchestration, LLM integration, and decision-support systems
-- 🎓 &nbsp;Bachelor's Degree in Business Informatics Systems
-- 💁‍♀️ &nbsp;8+ years of experience in fast-paced, collaborative environments
-- 🌱 &nbsp;Always learning
+I specialize in designing and implementing **production-grade AI systems** — from agent orchestration and retrieval pipelines to full-stack interfaces and deployment workflows.
+
+- 🧠 AI systems engineering — LLM orchestration, RAG pipelines, decision-support platforms
+- 🏗 Full-stack architecture — TypeScript, Next.js, Node.js, monorepos, testing & CI/CD
+- ☁️ Production mindset — reliability, observability, evaluation, and scalable system design
+- 🎓 Bachelor's Degree in Business Informatics
+- 💼 8+ years building complex applications in collaborative environments
+- 🌍 Based in Germany — open to international opportunities
+
+Currently focused on building **real-world AI applications that operate reliably outside the lab.**
 
 ---
 
-### 🌊 &nbsp;Featured Project
+## 🤖 AI Engineering Focus
+
+- Agent orchestration & tool-calling workflows
+- Retrieval-Augmented Generation (RAG)
+- Structured evaluation & testing of LLM systems
+- Prompt engineering & guardrails
+- Decision-support system design
+- AI system observability & quality monitoring
+- Human-in-the-loop interfaces
+
+---
+
+## 🌊 Featured Project
 
 <table>
   <tr>
@@ -32,9 +51,15 @@ My name's Laura and I'm a Frontend Developer <img src="https://media.giphy.com/m
       <img src="https://raw.githubusercontent.com/LoryGlory/flood-intelligence-platform/main/assets/logo.svg" width="56" alt="Flood Intelligence logo"/>
     </td>
     <td valign="top">
-      <strong><a href="https://github.com/LoryGlory/flood-intelligence-platform">Mosel Flood Risk Intelligence Platform</a></strong><br/>
+      <strong>
+        <a href="https://github.com/LoryGlory/flood-intelligence-platform">
+          Mosel Flood Risk Intelligence Platform
+        </a>
+      </strong>
+      <br/>
       <sub>
-        A portfolio-grade AI orchestration system: live sensor ingestion → rule-based risk scoring → RAG evidence retrieval → Claude LLM explanation → Next.js dashboard.<br/><br/>
+        A production-style AI decision-support platform combining live sensor ingestion, rule-based risk scoring, retrieval-augmented evidence, and LLM-generated explanations — delivered through a real-time Next.js dashboard.
+        <br/><br/>
         <img src="https://github.com/LoryGlory/flood-intelligence-platform/actions/workflows/ci.yml/badge.svg" alt="CI"/>
         &nbsp;
         <img src="https://sonarcloud.io/api/project_badges/measure?project=loryglory_flood-intelligence-platform&metric=alert_status" alt="Quality Gate"/>
@@ -45,11 +70,34 @@ My name's Laura and I'm a Frontend Developer <img src="https://media.giphy.com/m
   </tr>
 </table>
 
+**Architecture highlights**
+
+- Real-time environmental data ingestion
+- Rule-based risk modeling
+- Retrieval-Augmented Generation for explainability
+- LLM-driven decision interpretation
+- End-to-end full-stack system (API → orchestration → UI)
+- Monorepo architecture with automated CI and quality gates
+
 **Stack:** TypeScript · Next.js · Node.js · pnpm monorepo · Claude AI (Anthropic) · Vitest · SonarCloud
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
+## 🚧 Currently Building
+
+- AI orchestration platforms for real-world decision support
+- Evaluation frameworks for reliable LLM workflows
+- End-to-end AI product architectures
+
+---
+
+## 🧭 Engineering Interests
+
+AI platform architecture · distributed systems · developer tooling · system reliability · human-AI interaction
+
+---
+
+## 🛠 Languages and Tools
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -65,7 +113,8 @@ My name's Laura and I'm a Frontend Developer <img src="https://media.giphy.com/m
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -74,3 +123,15 @@ My name's Laura and I'm a Frontend Developer <img src="https://media.giphy.com/m
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+---
+
+## 🎯 Career Direction
+
+AI platform engineering · agent systems · production LLM infrastructure · intelligent decision-support software
+
+---
+
+## 🌱 Always Learning
+
+I enjoy exploring new technologies, building real systems, and continuously improving how intelligent software operates in production environments.
