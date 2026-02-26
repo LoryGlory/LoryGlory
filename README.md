@@ -43,7 +43,7 @@ Currently focused on building **real-world AI applications that operate reliably
 
 ---
 
-## 🌊 Featured Project
+## 🗂 Featured Projects
 
 <table>
   <tr>
@@ -68,9 +68,31 @@ Currently focused on building **real-world AI applications that operate reliably
       </sub>
     </td>
   </tr>
+  <tr>
+    <td width="64" valign="top">
+      <img src="https://raw.githubusercontent.com/LoryGlory/financial-document-intelligence-agent/main/frontend/src/app/icon.svg" width="56" alt="FinDoc Intelligence logo"/>
+    </td>
+    <td valign="top">
+      <strong>
+        <a href="https://github.com/LoryGlory/financial-document-intelligence-agent">
+          Financial Document Intelligence Agent
+        </a>
+      </strong>
+      <br/>
+      <sub>
+        A RAG-powered Q&A system for financial documents — upload a 10-K or earnings report, extract key metrics as structured JSON (revenue, EPS, net income, YoY deltas), then ask natural language questions and get grounded answers with inline citations.
+        <br/><br/>
+        <img src="https://github.com/LoryGlory/financial-document-intelligence-agent/actions/workflows/ci.yml/badge.svg" alt="CI"/>
+        &nbsp;
+        <img src="https://sonarcloud.io/api/project_badges/measure?project=LoryGlory_financial-document-intelligence-agent&metric=alert_status" alt="Quality Gate"/>
+        &nbsp;
+        <img src="https://sonarcloud.io/api/project_badges/measure?project=LoryGlory_financial-document-intelligence-agent&metric=coverage" alt="Coverage"/>
+      </sub>
+    </td>
+  </tr>
 </table>
 
-**Architecture highlights**
+**Flood Intelligence — architecture highlights**
 
 - Real-time environmental data ingestion
 - Rule-based risk modeling
@@ -80,6 +102,17 @@ Currently focused on building **real-world AI applications that operate reliably
 - Monorepo architecture with automated CI and quality gates
 
 **Stack:** TypeScript · Next.js · Node.js · pnpm monorepo · Claude AI (Anthropic) · Vitest · SonarCloud
+
+**Financial Document Intelligence — architecture highlights**
+
+- Section-aware PDF chunking (SEC 10-K Item detection)
+- ChromaDB vector store with document-scoped similarity search
+- Structured metric extraction with JSON schema prompting (revenue, EPS, gross margin, guidance)
+- RAG pipeline with grounded answers and inline citations
+- FastAPI backend + Next.js App Router frontend with server-side proxy
+- Multi-stage Docker builds with ONNX embedding model baked in
+
+**Stack:** Python · FastAPI · Next.js · ChromaDB · fastembed ONNX · Claude AI (Anthropic) · pytest · SonarCloud
 
 ---
 
